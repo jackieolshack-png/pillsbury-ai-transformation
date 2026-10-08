@@ -1,35 +1,62 @@
 # AI Transformation Portfolio
 
-Welcome to the AI Transformation Portfolio. This site presents three executive‑level AI transformation concepts designed for large law firms. Each concept demonstrates attorney‑centric workflow design, measurable business value, governance alignment, and responsible scale.
+Operationalizing AI strategy through workflow design, measurable value, responsible adoption and scale.
 
-## Executive Concept Briefs
+These illustrative concepts demonstrate how AI can be translated into practical attorney workflows, measurable business value, and responsible adoption within large law firms.
+
+---
+
+## 01 — WORKFLOW
 
 ### Matter Launch Accelerator
-A workflow concept that accelerates matter startup by surfacing similar matters, relevant attorneys, precedent documents, and industry‑specific risks.
+
+Accelerating matter startup through knowledge reuse, workflow guidance, and targeted attorney enablement.
+
+![Matter Launch Accelerator](01_matter_launch_accelerator.png)
+
+**View the Executive Brief →**  
+[Open Matter Launch Accelerator](01_matter_launch_accelerator.pdf)
+
+---
+
+## 02 — VALUE
 
 ### AI Transformation Value Dashboard
-A leadership dashboard measuring adoption quality, hours released, workflow scale, knowledge reuse, and responsible‑use readiness.
+
+Connecting AI adoption to capacity released, workflow scale, knowledge reuse, and management action.
+
+![AI Transformation Value Dashboard](02_ai_transformation_value_dashboard.png)
+
+**View the Executive Brief →**  
+[Open AI Transformation Value Dashboard](02_ai_transformation_value_dashboard.pdf)
+
+---
+
+## 03 — GOVERNANCE
 
 ### Contract Risk Intelligence
-An AI‑enabled clause review workflow that prioritizes high‑impact provisions, applies approved playbook criteria, and preserves attorney judgment.
 
-## Prototype Screenshots
+AI-assisted contract review designed to accelerate triage while preserving attorney judgment, traceability, and responsible-use controls.
 
-### Matter Launch Accelerator
-![Matter Launch Accelerator](mockup-matter-launch.png)
+![Contract Risk Intelligence](03_contract_risk_intelligence.png)
 
-### AI ROI Dashboard
-![AI ROI Dashboard](mockup-ai-roi-dashboard.png)
+**View the Executive Brief →**  
+[Open Contract Risk Intelligence](03_contract_risk_intelligence.pdf)
 
-### Contract Risk Intelligence
-![Contract Risk Intelligence](mockup-contract-risk-intelligence.png)
+---
 
-## Download Concept Documents
+## Transformation Lens
 
-- **1 - Matter Launch Accelerator.docx**  
-- **2 - AI Transformation Value Dashboard.docx**  
-- **3 - Contract Risk Intelligence.docx**
+The three concepts represent complementary dimensions of AI transformation:
 
-## Purpose
+**WORKFLOW** — How AI changes the way work gets done.  
+**VALUE** — How leadership measures whether the change is working.  
+**GOVERNANCE** — How AI is deployed responsibly and scaled with confidence.
 
-These materials demonstrate strategic thinking, workflow clarity, adoption strategy, governance awareness, and measurable business value — core capabilities for AI transformation leadership within AmLaw 100 firms.
+Together, they illustrate the bridge from AI strategy to practical adoption.
+
+---
+
+### About These Prototypes
+
+These are illustrative workflow and communication prototypes created to demonstrate transformation thinking, business-value framing, adoption strategy, and responsible AI governance. They are not production software or representations of any firm's existing systems.
