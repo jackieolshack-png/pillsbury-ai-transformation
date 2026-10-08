@@ -15,7 +15,7 @@ Accelerating matter startup through knowledge reuse, workflow guidance, and targ
 ![Matter Launch Accelerator](01_matter_launch_accelerator.png)
 
 **View the Executive Brief →**  
-[Open Matter Launch Accelerator](01_matter_launch_accelerator.pdf)
+[Open Matter Launch Accelerator](1%20-%20Matter%20Launch%20Accelerator.pdf)
 
 ---
 
@@ -28,7 +28,7 @@ Connecting AI adoption to capacity released, workflow scale, knowledge reuse, an
 ![AI Transformation Value Dashboard](02_ai_transformation_value_dashboard.png)
 
 **View the Executive Brief →**  
-[Open AI Transformation Value Dashboard](02_ai_transformation_value_dashboard.pdf)
+[Open AI Transformation Value Dashboard](2%20-%20AI%20Transformation%20Value%20Dashboard.pdf)
 
 ---
 
@@ -41,13 +41,23 @@ AI-assisted contract review designed to accelerate triage while preserving attor
 ![Contract Risk Intelligence](03_contract_risk_intelligence.png)
 
 **View the Executive Brief →**  
-[Open Contract Risk Intelligence](03_contract_risk_intelligence.pdf)
+[Open Contract Risk Intelligence](3%20-%20Contract%20Risk%20Intelligence.pdf)
+
+---
+
+## Additional Work
+
+### AI Legal Transformation Dashboard Suite
+
+An additional visual work sample illustrating how AI transformation can be translated into measurable management, adoption, and value-realization practices.
+
+![AI Legal Transformation Dashboard Suite](AI%20Legal%20Transformation%20Dashboard%20Suite.png)
 
 ---
 
 ## Transformation Lens
 
-The three concepts represent complementary dimensions of AI transformation:
+The three primary concepts represent complementary dimensions of AI transformation:
 
 **WORKFLOW** — How AI changes the way work gets done.  
 **VALUE** — How leadership measures whether the change is working.  
