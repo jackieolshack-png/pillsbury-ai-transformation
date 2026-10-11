@@ -2,14 +2,14 @@
 
 Operationalizing AI strategy through workflow design, measurable value, responsible adoption and scale.
 
-These illustrative concepts demonstrate how AI can be translated into practical attorney workflows, measurable business value, and responsible adoption within large law firms.
+These illustrative workflow prototypes and transformation concepts demonstrate how AI can be translated into practical attorney workflows, measurable business value, and responsible adoption within large law firms.
 
 ---
 
 ## 01 — WORKFLOW
 
 ### Matter Launch Accelerator
-
+*Illustrative workflow prototype*
 Accelerating matter startup through knowledge reuse, workflow guidance, and targeted attorney enablement.
 
 ![Matter Launch Accelerator](01_matter_launch_accelerator.png)
@@ -22,7 +22,7 @@ Accelerating matter startup through knowledge reuse, workflow guidance, and targ
 ## 02 — VALUE
 
 ### AI Transformation Value Dashboard
-
+*Illustrative transformation concept*
 Connecting AI adoption to capacity released, workflow scale, knowledge reuse, and management action.
 
 ![AI Transformation Value Dashboard](02_ai_transformation_value_dashboard.png)
@@ -35,7 +35,7 @@ Connecting AI adoption to capacity released, workflow scale, knowledge reuse, an
 ## 03 — GOVERNANCE
 
 ### Contract Risk Intelligence
-
+*Illustrative transformation prototype*
 AI-assisted contract review designed to accelerate triage while preserving attorney judgment, traceability, and responsible-use controls.
 
 ![Contract Risk Intelligence](03_contract_risk_intelligence.png)
@@ -69,4 +69,4 @@ Together, they illustrate the bridge from AI strategy to practical adoption.
 
 ### About These Prototypes
 
-These are illustrative workflow and communication prototypes created to demonstrate transformation thinking, business-value framing, adoption strategy, and responsible AI governance. They are not production software or representations of any firm's existing systems.
+These are illustrative workflow prototypes and transformation concepts created to demonstrate how I approach AI adoption, business-value realization, governance, and organizational change. They are not production software, representations of any firm's existing systems, or recommendations for a specific technology platform.
